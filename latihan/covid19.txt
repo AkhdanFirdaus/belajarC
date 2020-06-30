@@ -1,0 +1,4 @@
+Data Perkembangan COVID-19 di Kota Bandung
+Tanggal		: 10-12-20
+Jumlah Sembuh	: 10
+Jumlah Meninggal: 10
